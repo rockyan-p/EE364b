@@ -1,0 +1,117 @@
+[{
+ "name": "mtb7_mtA2_ec_d1-4-reglyco",
+ "modelSeeds": [
+  "2"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "IIPLTKQQINCYKVLVSQSQTQLTPLPLNQRVEYTQVDYQSQLYYFALEYSQLFLNNLPSNDIQYTYQYLTTSNRQVIKIYDNTSQFFGVPDQFKQATFYVTQMINLKNLNSNQLQNFFGICALNYFAQLHIKEFVLLSQQNQQFAISFDLISQTDDLSYVVLQFPTSFAQKPQTNSNIGCQLYTDFITIDKCSLTTNATSGLTSVSFNLTNLTQNNLQNISAALVLNYSTFNQNKFQNQQFQVQLLNYYSYLIANTTQFAIVDYRVCQQASFSAEIINNVQDFSQNERLKIKFTPASSNITRILIDLNNQAIIKINLTKIVIELSDLNQSNSLKILCSKVYQSLILCDLYNAFDFDITQGILMTLPFFQLTQPLQLMNITISIKYYTDYSYKNCYFSNTTLQFQSETSSSANAYLYSNNSFQISISNLIKLENQMTINIVLPSQLSFSQNVQLNNAFGFNSTSRVQVVSQQQVKISQLVQSYQFIPTYSGISFQLINVTSNTVYCNLSTQLSIQFQVINSFGLIIISGSIPVQI",
+    "glycans": [
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 199
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 210
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 221
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 229
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 257
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 318
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 330
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 380
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 400
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 420
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 499
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 508
+     }
+    ],
+    "count": 1
+   }
+  },
+  {
+   "proteinChain": {
+    "sequence": "QYTNQNAKSFEIITNDMSPLSSATTQPDQYKQNVYVVNSLKFPQQQNNKYFFLPFPPNTFNRLLSVKCLDQNENIIDQYFLQNIVTISSQIQQLINSEDNNKYLQLTLSSSNNAFRAIQSSTSGNFKVQFTVENTLKSYPQNFINLIIDGQNITCIQSSYQITFRNQVQYTQYFNYSEFPSQFQNFGFQFYGYFFLGFNLQFSVGYDFNVIQGWNQFYSIYVIQNQTNLAYVRPVQYGDFIANELAFNIQQSAFNFCNLQQIVLPQSISDQFQAIDPILLLQNTVNQNNFTSQEIIYVNNGTIMFKNQNLQIISQLNPIPFILKQFVDVVGFNQNLSLTFSCNQNQLITKNYSIIQNEFLNANLTQALVQLNNNGNTPNLTIQIQIPVVQVQNSSFYLKLPLGINFLAMDQSQVSVQGFSFSQLNWSQNIISFLQSNFTSTSILISVSKVELQKQSNGKQQITKIIAKCVFNSTFVFYVDENTNQTLQII",
+    "glycans": [
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 152
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 175
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 289
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 300
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 335
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 351
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 363
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 379
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 393
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 472
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 484
+     }
+    ],
+    "count": 1
+   }
+  }
+ ]
+}
+]

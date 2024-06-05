@@ -1,0 +1,61 @@
+[{
+ "name": "mtb7_mtB7 ec_d1-4-reglyco",
+ "modelSeeds": [
+  "7"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MSGLRKVSLLMAIYQILCLSYGQLSYYLVSLNQNTKQLNPLPLNQRQISSNNLQQYYFVVEGNITQSNDLMGLGLDYTYRLLTTSNRVILYYFSNSDQLSSIPTQFQQNGFYINLLVSLQFSQGFNQVMQFINSNDALVQYDQLTLKKFVQLNTQSKQFLISTVLNSQTDDISNLILQYPSSLATIAQNSQNIGCQLYTDYVVLNQCSLIANPSTGLTSISFNLSSIPIPLTNISATVAINYSSFNQNFIQAQPFSLQLFNIYNIKISQSSNFGGVDQRVCQQSSFSAVLVNDTQAYNQRPIWQVRFTPTTNITRILIEFSQPIIAKIKGNTIPFTLSDLSGNNQFLLSCNKIYKSIILCDLYGYIPFDNSQPIILNFPQFDIISSTLQPQIQFSFKYFTDFSYQTCYSQNLMMQFQTIVPQSAVGFLYNNNSLLLSFSNPIQIDNQMTININLPKQLAFSASSQLNQIFGISNLSQISIKSQQSASISQITLPLNQLNAYLGISFQLTNISQSGLYCSVNSTYQAQIQIINSLGTIILSGNISIQI",
+    "glycans": [
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 63
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 223
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 233
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 241
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 292
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 312
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 431
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 474
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 510
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 521
+     },
+     {
+      "residues": "NAG(NAG(MAN(MAN)(MAN)))",
+      "position": 542
+     }
+    ],
+    "count": 2
+   }
+  }
+ ]
+}
+]
